@@ -1,3 +1,4 @@
+hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
 require 'pry'
 
 def hello(array)
